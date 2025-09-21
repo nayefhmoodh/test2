@@ -1,0 +1,8 @@
+https://evil.example/{X}
+//evil.example/{X}
+https://example.com.evil.example/{X}
+https://%65%76%69%6c.example/{X}
+%2f%2fevil.example%2f{X}
+//localhost@evil.example/{X}
+http://127.0.0.1/{X}
+//0x7f000001/{X}
