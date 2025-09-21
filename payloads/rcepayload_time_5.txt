@@ -1,0 +1,6 @@
+;sleep 5
+&& sleep 5
+| sleep 5
+& timeout /T 5
+; ping -c 5 127.0.0.1 > /dev/null
+& ping -n 5 127.0.0.1 >NUL
