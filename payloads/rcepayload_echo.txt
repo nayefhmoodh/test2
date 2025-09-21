@@ -1,0 +1,6 @@
+;echo {X}
+&& echo {X}
+| echo {X}
+`echo {X}`
+& echo {X}
+%26%26%20echo%20{X}
